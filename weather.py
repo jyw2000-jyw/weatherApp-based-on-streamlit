@@ -59,7 +59,7 @@ header = {'User-Agent':'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/53
 
 for url in urls:                                                       
     response = requests.get(url,headers = header)                                                     
-    soup = BeautifulSoup(response.text, 'lxml')                               
+    soup = BeautifulSoup(response.text)                               
     weather_list = soup.select('div[class="tian_three"]')
     for weather in weather_list:
         if url == urls[0]: # 判断：只有第一次爬取标题
