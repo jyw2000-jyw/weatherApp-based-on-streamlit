@@ -9,6 +9,7 @@
 ```
 conda create -n wk python==3.8.5
 conda activate wk
+pip install -n requirements.txt
 ```
 
 ### Get weather data
