@@ -24,5 +24,5 @@ streamlit run WeatherKnow.py
 ```
 
 ## Update Blog
-1. Completed the baseline
-2. Improve UI and Web Crawler Function
+1. Completed the baseline(2021.3)
+2. Improve UI and Web Crawler Function(2023.9.25)
