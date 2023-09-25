@@ -1,2 +1,1 @@
-# weatherApp-based-on-streamlit
-weatherApp-based-on-streamlit
+# Weather Monitor System based on Python & streamlit
