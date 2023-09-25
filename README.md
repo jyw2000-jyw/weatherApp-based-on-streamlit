@@ -21,3 +21,7 @@ python run weather_utils.py
 ```
 streamlit run WeatherKnow.py
 ```
+
+## Update Blog
+1. Completed the baseline
+2. Improve UI and Web Crawler Function
