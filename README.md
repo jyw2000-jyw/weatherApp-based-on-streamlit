@@ -1,8 +1,7 @@
 # Weather Monitor System based on Python & Streamlit
-[Yuwei Jiang](https://github.com/jyw2000-jyw)* of **Fuzhou University**
+[Yuwei Jiang](https://github.com/jyw2000-jyw)* of **Nanyang Technological University**
 
 <a href='https://dashboard.heroku.com/apps'><img src='https://img.shields.io/badge/Web-Heroku-blue'></a> 
-[![YouTube](https://badges.aleen42.com/src/youtube.svg)](https://www.youtube.com/watch?v=__tftoxpBAw&feature=youtu.be)
 
 ## How to use
 ### Installation
