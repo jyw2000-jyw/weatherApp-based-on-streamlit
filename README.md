@@ -3,6 +3,9 @@
 
 <a href='https://dashboard.heroku.com/apps'><img src='https://img.shields.io/badge/Web-Heroku-blue'></a> 
 
+## Overview
+<img src="figs/ui.png" width="900">
+
 ## How to use
 ### Installation
 
