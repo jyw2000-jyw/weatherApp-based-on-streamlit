@@ -1,5 +1,5 @@
 # Weather Monitor System based on Python & Streamlit
-[Yuwei Jiang](https://github.com/jyw2000-jyw)* of **Nanyang Technological University**
+[Yuwei Jiang](https://github.com/jyw2000-jyw)* @ **Nanyang Technological University**
 
 <a href='https://dashboard.heroku.com/apps'><img src='https://img.shields.io/badge/Web-Heroku-blue'></a> 
 
